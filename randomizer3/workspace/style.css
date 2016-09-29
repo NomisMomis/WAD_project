@@ -1,0 +1,133 @@
+/*Index.html*/
+
+
+body{
+   background-color:#1abc9c;
+}
+
+#login{
+    float:right;
+    
+    background-color:#1abc9c;
+    margin-right:2em;
+    border-color:#2980b9;
+    
+}
+
+#register{
+    float:right;
+    
+    background-color:#1abc9c;
+    margin-right:2em;
+    border-color:#2980b9;
+    
+}
+
+#header{
+    text-align:center;
+}
+
+#firstBtn{
+    width:60%;
+    margin: auto;
+    background-color:#f39c12;
+    border-color:#f39c12;
+    text-align:center;
+}
+
+img{
+    width:-10em;
+    height:30em;
+    
+}
+#showBtn{
+    width:100%;
+    
+    
+    
+}
+#show{
+    width:50%;
+    margin-left: 25%;
+    background-color:#2980b9;
+    border-color:#2980b9;
+    margin-top:1em;  
+    text-align:center;
+}
+#hide{
+    width:50%;
+    margin: auto;
+    background-color:#2980b9;
+    border-color:#2980b9;
+    margin-top:1em;  
+    text-align:center;
+}
+#secondBtn{
+        width:50%;
+    margin: auto;
+    background-color:#c0392b;
+    border-color:#c0392b;
+    margin-top:1em;
+    text-align:center;
+}
+
+#thirdBtn{
+    width:50%;
+    margin: auto;
+    background-color:#c0392b;
+    border-color:#c0392b;
+    margin-top:1em;
+    text-align:center;
+}
+#fourthBtn{
+    width:50%;
+    margin: auto;
+    background-color:#c0392b;
+    border-color:#c0392b;
+    margin-top:1em;
+    margin-bottom:1em;
+    text-align:center;
+}
+
+
+#library_text{
+     border-radius: 5px;
+    background-color:#f39c12;
+    width:50%;
+    margin:auto;
+    
+}
+#description{
+    color:white;
+    width:100%;
+    height:3em;
+    
+}
+#libraryBtn{
+    text-align:center;
+        width:40%;
+    margin: auto;
+    background-color:#c0392b;
+    border-color:#c0392b;
+    margin-top:1em;
+    margin-bottom:1em;
+}
+#libraryList{
+    margin: auto;
+    width:19em;
+    border-radius: 10px;
+    background-color:#9b59b6;
+    
+}
+table, th,tr,td{
+   border: 1px solid black;
+    padding:2px;
+    margin:auto;
+    color:white;
+}
+
+#bottom_section{
+    height:auto;
+    margin-top:20%;
+    
+}
